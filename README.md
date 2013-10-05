@@ -113,3 +113,7 @@ License
 -------
 
 MIT License (see LICENSE file)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mdornseif/django-clippy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
